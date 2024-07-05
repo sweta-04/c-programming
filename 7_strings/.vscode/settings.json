@@ -1,0 +1,11 @@
+{
+    "editor.fontSize": 20,
+    "editor.codeLensFontSize": 20,
+    "diffEditor.maxFileSize": 0,
+    "editor.inlayHints.fontSize": 20,
+    "editor.minimap.size": "fill",
+    "editor.suggestFontSize": 20,
+    "terminal.integrated.fontSize": 20,
+    "explorer.openEditors.minVisible": 20,
+    "explorer.openEditors.visible": 20
+}
